@@ -1,0 +1,27 @@
+
+Objective
+===============
+These days most of the business owners are manage their accounts in digital method. So they are looking for software to maintain all over stocks, purchase, sale and so many things. Because through this we can able to maintain the exact records when compared to offline mode.
+
+This is one of the major reason for most of people’s are starts to using software based products for manage their entire services or products. For example billing software completely save our time and show the exact result for end users which means customers. Moreover target also very easy & focus on exact scenario who are looking for accurate results.
+
+
+Main Modules – Inventory Management Django Python
+======================================================
+Category
+-------------
+Add New Products
+Manage Sales
+Stock Reports
+Purchase Reports
+
+Features
+==========
+Number of features are available on this project so once check our live demo for get more ideas. However you can easily understand the concepts when look at our explanation. Because it’s very easy methods. For the sample purpose in below we are listed major benefits only when activate our project on your system.
+
+User Friendly Navigation
+Easy to use
+Bootstrap Layout
+PDF Reports
+Forgot Password
+User Management
